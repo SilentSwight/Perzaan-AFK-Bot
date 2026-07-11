@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "TheStableMC.aternos.me",
+    "port": 45780,
+    "version": "1.21.130.03"
   },
   "position": {
     "enabled": true,
